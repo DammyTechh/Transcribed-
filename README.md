@@ -20,30 +20,6 @@
 - **Audio API**: Web Audio API for live recording functionality  
 - **File Generation**: Libraries like `FileSaver.js` and `docx` for generating and downloading files
 
-## Directory Structure
-
-```
-transcribe-web-app/  
-├── public/                  # Static files (e.g., images, fonts)  
-├── src/  
-│   ├── components/          # Reusable UI components  
-│   │   ├── Recorder.tsx     # Live recording interface  
-│   │   ├── Transcription.tsx # Displays transcription  
-│   │   └── DownloadButton.tsx # File download options  
-│   ├── pages/               # Next.js pages  
-│   │   ├── index.tsx        # Home page  
-│   │   └── api/             # API routes (e.g., for processing audio)  
-│   ├── styles/              # CSS/SCSS styles  
-│   │   └── globals.css      # Global styles  
-│   ├── utils/               # Helper functions and utilities  
-│   │   └── fileUtils.ts     # File generation and export logic  
-│   └── hooks/               # Custom React hooks  
-│       └── useRecorder.ts   # Hook for managing recording state  
-├── .env                     # Environment variables  
-├── package.json             # Project dependencies and scripts  
-├── tsconfig.json            # TypeScript configuration  
-└── README.md                # Project documentation  
-```
 
 ## Getting Started
 
@@ -56,8 +32,8 @@ transcribe-web-app/
 
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/your-username/transcribe-web-app.git  
-   cd transcribe-web-app  
+   git clone https://github.com/dammy-key/transcribe-web-app.git  
+   cd Transcribed
    ```
 
 2. Install dependencies:  

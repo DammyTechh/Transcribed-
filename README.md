@@ -32,7 +32,7 @@
 
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/dammy-key/transcribe-web-app.git  
+   git clone https://github.com/dammy-key/Transcribed-
    cd Transcribed
    ```
 
